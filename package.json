@@ -15,6 +15,9 @@
   "author": "Jan Bölsche",
   "license": "CCBY",
   "devDependencies": {
-    "marked": "^0.3.3"
+    "marked": "^0.3.3",
+    "browserify": "^9.0.3",
+    "brfs": "^1.4.0",
+    "markdownify": "^0.1.0"
   }
 }
