@@ -4,8 +4,8 @@
   "description": "An introduction to she.codes content",
   "main": "index.js",
   "brain": {
-    requires: [],
-    provides: ['intro']
+    "requires": [],
+    "provides": ["intro"]
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
