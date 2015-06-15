@@ -1,0 +1,27 @@
+{
+  "name": "intro",
+  "version": "1.1.1",
+  "description": "An introduction to she.codes content",
+  "main": "index.js",
+  "brain": {
+    "requires": [],
+    "provides": [
+      "intro"
+    ],
+    "bundler": {
+      "name": "bpm-bundle",
+      "version": "1.2.0"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Bölsche",
+  "license": "CCBY",
+  "devDependencies": {
+    "marked": "^0.3.3",
+    "browserify": "^9.0.3",
+    "brfs": "^1.4.0",
+    "markdownify": "^0.1.0"
+  }
+}
