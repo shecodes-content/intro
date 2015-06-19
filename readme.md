@@ -1,4 +1,4 @@
-## Three tracks, one topic: Language
+# Three tracks, one topic: Language
 
 It’s all about communication. That’s why we start all three tracks of this course talking about language.
 
